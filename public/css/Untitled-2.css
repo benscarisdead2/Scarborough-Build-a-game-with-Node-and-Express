@@ -1,0 +1,8 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#image {
+    z-index: 1;
+    max-width: 100%;
+    max-height: 100%;
+}
